@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="page1">
+        <div id="nav">
+            <div id="nav-part1">
+                <h4>Find talent</h4>
+                <h4>Inspiration</h4>
+                <h4>Learn design</h4>
+                <h4>Jobs</h4>
+                <h4>Go pro</h4>
+            </div>
+            <img src="dribble logo.webp" alt="">
+            <div id="nav-part2">
+                <button id="login">log in</button>
+                <button>sing up</button>
+            </div>
+        </div>
+
+        <div id="containt">
+            <h3>Over 3 million ready-to-work creatives! </h3>
+            <h1> Discover the world’s<br> top designers</h1>
+            <h4>Explore work from the most talented and accomplished designers ready to take on your next project</h4>
+            <button> What are you loking for?</button>
+            <div id="bottom">
+                <div class="elem"> 
+                    <img src="OIP.jpeg" alt="">
+                </div>
+                <div class="elem">
+                    <img src="https://i.pinimg.com/originals/e3/7e/0e/e37e0e25686c2139b281a57a5b4906f2.jpg" alt="">
+                </div>
+                <div class="elem">
+                    <img src="imggggg.webp" alt="">
+                </div>
+                <div class="elem">
+                    <img src="https://th.bing.com/th/id/OIP.06t4_mRtAUBDCd1ABrsHnwAAAA?pid=ImgDet&w=178&h=267&c=7&dpr=1.5 " alt="">
+                </div>
+                <div class="elem">
+                    <img src="cropped-Ahana.png" alt="">
+                </div>
+                <div class="elem">
+                    <img src="https://th.bing.com/th/id/OIP.4Sf5Qzlwrq-0iNoydcGW0wHaLH?rs=1&pid=ImgDetMain" alt="">
+                </div>
+                <div class="elem">
+                    <img src="girl-7115394_1280.jpg" alt="">
+                </div>
+                <div class="elem">
+                    <img src="https://i.pinimg.com/originals/1d/c4/f9/1dc4f936a80d3af8ce019ea9fd1ce956.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
